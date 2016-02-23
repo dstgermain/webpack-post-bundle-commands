@@ -1,0 +1,30 @@
+{
+  "name": "webpack-post-bundle-commands",
+  "version": "1.0.0",
+  "description": "Run shell commands after webpack bundle",
+  "main": "webpackPostBundleCommands.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "webpack",
+    "plugin",
+    "webpack",
+    "post",
+    "bundle",
+    "webpack",
+    "commands"
+  ],
+  "author": "Daniel St. Germain",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0",
+    "eslint": "^2.2.0",
+    "eslint-config-airbnb": "^6.0.2",
+  }
+}
